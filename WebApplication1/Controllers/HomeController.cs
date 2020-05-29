@@ -12,7 +12,7 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
-        //--Ravi chu
+        //--Ravi
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
